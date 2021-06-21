@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Inspired by dre', 'Sweet November', 'Sample_1' ];
+const songs = ['jazz-hop', 'Inspired by dre', 'Sweet November', 'Sample_1' ];
 
 // Keep track of song
 let songIndex = 2;
